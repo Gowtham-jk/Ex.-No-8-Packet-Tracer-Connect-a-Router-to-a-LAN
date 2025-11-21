@@ -1,7 +1,7 @@
 # Ex. No: 8   Packet Tracer: Connect a Router to a LAN
 # Name:Gowtham V
 # Register Number : 212223100009
-# Date:27-09-2025
+# Date:27-10-2025
 ________________________________________<br>
 # Objective
 Configure and verify router LAN/WAN interfaces in Cisco Packet Tracer and test end-to-end connectivity.<br>
